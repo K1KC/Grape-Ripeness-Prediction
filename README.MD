@@ -125,7 +125,6 @@ streamlit run app.py
 
 ## 👤 Author
 
-Claresco Gerres Rivaine
-Yeremias Agung Aldyansa
+Claresco Gerres Rivaine, Yeremias Agung Aldyansa
 
 ---

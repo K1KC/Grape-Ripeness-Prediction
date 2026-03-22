@@ -53,8 +53,7 @@ Prediction Displayed in Web UI
 ├── best.pt          # YOLO segmentation model
 ├── xgb.pkl          # Regression model (XGBoost)
 ├── requirements.txt # Install dependencies
-├── README.md        # Documentation
-└── LICENSE          # License
+└── README.md        # Documentation
 ```
 
 ---

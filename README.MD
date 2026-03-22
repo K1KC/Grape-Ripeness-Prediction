@@ -21,6 +21,7 @@ streamlit run app.py
 ```
 
 Then open the provided local URL in your browser.
+
 ---
 
 ## Features
@@ -41,6 +42,7 @@ Feature Extraction (pixel RGB value)
 Regression Model (xgboost_rgb_model.pkl)
           ↓
 Prediction Displayed in Web UI
+
 ---
 
 ## Project Structure
@@ -54,6 +56,7 @@ Prediction Displayed in Web UI
 ├── README.md        # Documentation
 └── LICENSE          # License
 ```
+
 ---
 
 ## Installation
@@ -76,6 +79,7 @@ Or install manually:
 ```bash
 pip install streamlit ultralytics opencv-python numpy scikit-learn xgboost
 ```
+
 ---
 
 ## ▶️ Usage
@@ -92,6 +96,7 @@ streamlit run app.py
 2. The app performs segmentation
 3. Features are extracted automatically
 4. Prediction is displayed in the UI
+
 ---
 
 ## Example Output

@@ -1,0 +1,10 @@
+# Core dependencies for Streamlit CV app
+
+streamlit
+ultralytics
+opencv-python
+pandas
+joblib
+matplotlib
+xgboost
+numpy

@@ -49,11 +49,11 @@ Prediction Displayed in Web UI
 
 ```
 .
-├── app.py           # Streamlit web application
-├── best.pt          # YOLO segmentation model
-├── xgb.pkl          # Regression model (XGBoost)
-├── requirements.txt # Install dependencies
-└── README.md        # Documentation
+├── app.py                 # Streamlit web application
+├── segmentation.pt        # YOLO segmentation model
+├── xgboost_rgb_model.pkl  # Regression model (XGBoost)
+├── requirements.txt       # Install dependencies
+└── README.md              # Documentation
 ```
 
 ---

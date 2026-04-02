@@ -18,7 +18,7 @@ def load_models():
     print("Loading models...")
     try:
         # Load YOLO
-        yolo = YOLO('best5.pt') 
+        yolo = YOLO('segmentation.pt') 
         # Load XGBoost
         xgb = joblib.load('xgboost_rgb_model.pkl') 
         return yolo, xgb

@@ -33,15 +33,7 @@ Then open the provided local URL in your browser.
 
 ## Pipeline Architecture
 
-User Upload Image (Streamlit UI)
-          ↓
-YOLO Segmentation (segmentation.pt)
-          ↓
-Feature Extraction (pixel RGB value)
-          ↓
-Regression Model (xgboost_rgb_model.pkl)
-          ↓
-Prediction Displayed in Web UI
+User Upload Image (Streamlit UI) -> YOLO Segmentation (segmentation.pt) -> Feature Extraction (pixel RGB value) -> Regression Model (xgboost_rgb_model.pkl) -> Prediction Displayed in Web UI
 
 ---
 
@@ -125,6 +117,7 @@ streamlit run app.py
 
 ## Author
 
-Claresco Gerres Rivaine, Yeremias Agung Aldyansa
+@K1KC
+@winnieee14
 
 ---

@@ -81,7 +81,7 @@ pip install streamlit ultralytics opencv-python numpy scikit-learn xgboost
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the Streamlit app:
 

@@ -123,7 +123,7 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
+## Author
 
 Claresco Gerres Rivaine, Yeremias Agung Aldyansa
 
